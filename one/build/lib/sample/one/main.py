@@ -1,1 +1,0 @@
-print "main in one"
